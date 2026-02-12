@@ -356,7 +356,7 @@ body {
   border-radius: .3rem;
   font-weight: 600;
   transition: .3s ease;
-  margin-bottom: .6rem;
+  
   
 }
 
@@ -555,4 +555,5 @@ body {
         font-size: 0.9rem;
     }
 }
+
 
