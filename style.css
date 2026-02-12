@@ -556,3 +556,9 @@ body {
 }
 
 
+
+/* Remove skill boxes safely */
+.skills-content .content span {
+  border: none;
+  box-shadow: none;
+}
