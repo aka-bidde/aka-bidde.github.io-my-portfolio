@@ -333,10 +333,12 @@ body {
   flex: 1 1 20rem;
 }
 
-.skills-content h3 {
+.skills-content h3,
+.skills-content h4 {
   font-size: 1.3rem;
-  line-height: 1;
+  line-height: 1.1;
   margin-bottom: .6rem;
+  white-space: nowrap;
 }
 
 .skills-content .content {
@@ -553,3 +555,4 @@ body {
         font-size: 0.9rem;
     }
 }
+
