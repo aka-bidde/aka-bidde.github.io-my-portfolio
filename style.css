@@ -356,6 +356,8 @@ body {
   border-radius: .3rem;
   font-weight: 600;
   transition: .3s ease;
+  margin-bottom: .6rem;
+  
 }
 
 .skills-content .content span:hover {
@@ -553,3 +555,4 @@ body {
         font-size: 0.9rem;
     }
 }
+
