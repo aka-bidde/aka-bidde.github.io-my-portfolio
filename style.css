@@ -333,11 +333,10 @@ body {
   flex: 1 1 20rem;
 }
 
-.skills-content h4 {
-  font-size: 1.2rem;
-  line-height: 1.2;
+.skills-content h3 {
+  font-size: 1.3rem;
+  line-height: 1;
   margin-bottom: .6rem;
-  text-align: center;
 }
 
 .skills-content .content {
@@ -553,12 +552,4 @@ body {
     nav ul {
         font-size: 0.9rem;
     }
-}
-
-
-
-/* Remove skill boxes safely */
-.skills-content .content span {
-  border: none;
-  box-shadow: none;
 }
